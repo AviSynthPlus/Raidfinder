@@ -1,16 +1,10 @@
-# Raidfinder  
-* Raidfinder for [Granblue Fantasy](http://game.granbluefantasy.jp).  
-![Preview](https://cdn.discordapp.com/attachments/614716155646705676/720291056197042207/unknown.png)
-  
-#### Requirements  
-* [Python 3.8](https://www.python.org/) or higher.  
-* [Tweepy](https://www.tweepy.org/) to access Twitter.  
-* Pyperclip to access the clipboard.  
-  
-```  
-pip install -r requirements.txt
-```  
-Requirements will be installed by the application on startup, if the modules are missing.
-  
-#### Questions?
-Check README.txt for user-friendly details.  
+# Raidfinder
+![Preview](https://i.imgur.com/KSWHCAz.png)  
+[グランブルーファンタジー](http://game.granbluefantasy.jp) の Twitter 救援ツールです。  
+選択したマルチバトルの救援 ID をクリップボードに自動コピーすることができます。
+
+#### 使い方
+* [Python 3.8](https://www.python.org/) 以降をダウンロードしてインストールする（「Add Python XX to PATH」にチェックを入れてください）
+* [Raidfinder-mod.zip](https://github.com/AviSynthPlus/Raidfinder/archive/refs/heads/mod.zip) をダウンロードして解凍する（デスクトップ以外の場所に解凍してください）
+* 解凍したフォルダに入っている install.bat を実行する
+* gbfraidcopier.pyw を実行して Raidfinder を起動する（初回起動時に連携アプリの認証を要求されます）

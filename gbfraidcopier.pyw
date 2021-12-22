@@ -331,7 +331,7 @@ class Raidfinder():
                 if self.twitter_api.verify_credentials() is None: raise Exception()
             except: # ask for authentification
                 self.UI.log(self.translate("[Error] Authentification is required"))
-                self.auth = tweepy.OAuthHandler("uSMr3m0GmKTqsNT0gnLyBpSPb", "PRya1sy5qkdJek7IWiCUQ3TLcJRcS46mPgOrEQPyllI7xqjTd2")
+                self.auth = tweepy.OAuthHandler("XHBY1bMZtKAZzT3azotldREoi", "KliP0RQOVBDlkNtKem2HtE8bVAx8sQu0RWLtFPGR57ZwFlebAR")
                 try:
                     redirect_url = self.auth.get_authorization_url()
                     webbrowser.open(redirect_url, new=2)
@@ -340,8 +340,8 @@ class Raidfinder():
                     self.twitter_api = tweepy.API(self.auth, wait_on_rate_limit=True)
                     if self.twitter_api.verify_credentials() is None: raise Exception("Authentification failed")
                     self.keys = {
-                        'consumer_key': 'uSMr3m0GmKTqsNT0gnLyBpSPb',
-                        'consumer_secret': 'PRya1sy5qkdJek7IWiCUQ3TLcJRcS46mPgOrEQPyllI7xqjTd2',
+                        'consumer_key': 'XHBY1bMZtKAZzT3azotldREoi',
+                        'consumer_secret': 'KliP0RQOVBDlkNtKem2HtE8bVAx8sQu0RWLtFPGR57ZwFlebAR',
                         'access_token': self.auth.access_token,
                         'access_token_secret': self.auth.access_token_secret
                     }
@@ -974,9 +974,9 @@ class RaidfinderUI(Tk.Tk):
         self.raidfinder.stats = {'runtime':None, 'tweet':0, 'all tweet':0, 'dupe':0, 'blacklist':0, 'last':None, 'last tweet':None, 'delay':0, 'filtered':0}
 
     def openBrowser(self, n): # open the user web browser
-        if n == 0: webbrowser.open('https://drive.google.com/file/d/0B9YhZA7dWJUsY1lKMXY4bV9nZUE/view?usp=sharing', new=2)
-        elif n == 1: webbrowser.open('https://drive.google.com/file/d/1mq0zkMwqf6Uvem12gdoUIvSJhC_u7jDT/view?usp=sharing', new=2)
-        elif n == 2: webbrowser.open('https://github.com/MizaGBF/Raidfinder', new=2)
+        if n == 0: webbrowser.open('https://github.com/AviSynthPlus/Raidfinder/archive/refs/heads/mod.zip', new=2)
+        elif n == 1: webbrowser.open('https://raw.githubusercontent.com/AviSynthPlus/Raidfinder/mod/raid.json', new=2)
+        elif n == 2: webbrowser.open('https://github.com/AviSynthPlus/Raidfinder', new=2)
 
     def startPing(self, n): # open the user web browser
         if n == 0: thread = threading.Thread(target=self.raidfinder.pingServer, args=["stream.twitter.com", 10])
