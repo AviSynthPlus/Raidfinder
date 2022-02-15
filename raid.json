@@ -389,6 +389,13 @@
                     "posY":0
                 },
                 {
+                    "name": "Horus",
+                    "en": "Lvl 120 Horus",
+                    "jp": "Lv120 ホルス",
+                    "posX":3,
+                    "posY":1
+                },
+                {
                     "name": "Prometheus",
                     "en": "Lvl 120 Prometheus",
                     "jp": "Lv120 プロメテウス",
