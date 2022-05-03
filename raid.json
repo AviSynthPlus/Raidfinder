@@ -382,25 +382,32 @@
                     "posY":5
                 },
                 {
+                    "name": "Atum",
+                    "en": "Lvl 120 Atum",
+                    "jp": "Lv120 アトゥム",
+                    "posX":3,
+                    "posY":0
+                },
+                {
                     "name": "Bennu",
                     "en": "Lvl 120 Bennu",
                     "jp": "Lv120 ベンヌ",
                     "posX":3,
-                    "posY":0
+                    "posY":1
                 },
                 {
                     "name": "Horus",
                     "en": "Lvl 120 Horus",
                     "jp": "Lv120 ホルス",
                     "posX":3,
-                    "posY":1
+                    "posY":2
                 },
                 {
                     "name": "Osiris",
                     "en": "Lvl 120 Osiris",
                     "jp": "Lv120 オシリス",
                     "posX":3,
-                    "posY":2
+                    "posY":3
                 },
                 {
                     "name": "Prometheus",
