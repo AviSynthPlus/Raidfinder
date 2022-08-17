@@ -95,150 +95,108 @@
             "list":
             [
                 {
-                    "name":"Nezha", 
-                    "en":"Lvl 100 Nezha", 
-                    "jp":"Lv100 ナタク",
-                    "posX":0,
-                    "posY":0
-                },
-                {
-                    "name":"Twin Elements", 
-                    "en":"Lvl 100 Twin Elements", 
-                    "jp":"Lv100 フラム＝グラス",
-                    "posX":0,
-                    "posY":1
-                },
-                {
-                    "name":"Macula Marius", 
-                    "en":"Lvl 100 Macula Marius", 
-                    "jp":"Lv100 マキュラ・マリウス",
-                    "posX":0,
-                    "posY":2
-                },
-                {
-                    "name":"Medusa", 
-                    "en":"Lvl 100 Medusa", 
-                    "jp":"Lv100 メドゥーサ",
-                    "posX":0,
-                    "posY":3
-                },
-                {
-                    "name":"Apollo", 
-                    "en":"Lvl 100 Apollo", 
-                    "jp":"Lv100 アポロン",
-                    "posX":0,
-                    "posY":4
-                },
-                {
-                    "name":"DA. Olivia", 
-                    "en":"Lvl 100 Dark Angel Olivia", 
-                    "jp":"Lv100 Dエンジェル・オリヴィエ",
-                    "posX":0,
-                    "posY":5
-                },
-                {
                     "name": "Athena",
                     "en": "Lvl 100 Athena",
                     "jp": "Lv100 アテナ",
-                    "posX":1,
+                    "posX":0,
                     "posY":0
                 },
                 {
                     "name": "Grani",
                     "en": "Lvl 100 Grani",
                     "jp": "Lv100 グラニ",
-                    "posX":1,
+                    "posX":0,
                     "posY":1
                 },
                 {
                     "name": "Baal",
                     "en": "Lvl 100 Baal",
                     "jp": "Lv100 バアル",
-                    "posX":1,
+                    "posX":0,
                     "posY":2
                 },
                 {
                     "name": "Garuda",
                     "en": "Lvl 100 Garuda",
                     "jp": "Lv100 ガルーダ",
-                    "posX":1,
+                    "posX":0,
                     "posY":3
                 },
                 {
                     "name": "Odin",
                     "en": "Lvl 100 Odin",
                     "jp": "Lv100 オーディン",
-                    "posX":1,
+                    "posX":0,
                     "posY":4
                 },
                 {
                     "name": "Lich",
                     "en": "Lvl 100 Lich",
                     "jp": "Lv100 リッチ",
-                    "posX":1,
+                    "posX":0,
                     "posY":5
                 },
                 {
                     "name": "Grand Order",
                     "en": "Lvl 100 Grand Order",
                     "jp": "Lv100 ジ・オーダー・グランデ",
-                    "posX":2,
+                    "posX":1,
                     "posY":0
                 },
                 {
                     "name": "Bahamut",
                     "en": "Lvl 100 Proto Bahamut",
                     "jp": "Lv100 プロトバハムート",
-                    "posX":2,
+                    "posX":1,
                     "posY":1
                 },
                 {
                     "name": "Huanglong",
                     "en": "Lvl 100 Huanglong",
                     "jp": "Lv100 黄龍",
-                    "posX":2,
+                    "posX":1,
                     "posY":2
                 },
                 {
                     "name": "Qilin",
                     "en": "Lvl 100 Qilin",
                     "jp": "Lv100 黒麒麟",
-                    "posX":2,
+                    "posX":1,
                     "posY":3
                 },
                 {
                     "name": "Michael",
                     "en": "Lvl 100 Michael",
                     "jp": "Lv100 ミカエル",
-                    "posX":3,
+                    "posX":2,
                     "posY":0
                 },
                 {
                     "name": "Gabriel",
                     "en": "Lvl 100 Gabriel",
                     "jp": "Lv100 ガブリエル",
-                    "posX":3,
+                    "posX":2,
                     "posY":1
                 },
                 {
                     "name": "Uriel",
                     "en": "Lvl 100 Uriel",
                     "jp": "Lv100 ウリエル",
-                    "posX":3,
+                    "posX":2,
                     "posY":2
                 },
                 {
                     "name": "Raphael",
                     "en": "Lvl 100 Raphael",
                     "jp": "Lv100 ラファエル",
-                    "posX":3,
+                    "posX":2,
                     "posY":3
                 },
                 {
                     "name": "Ultimate Baha.",
                     "en": "Lvl 150 Ultimate Bahamut",
                     "jp": "Lv150 アルティメットバハムート",
-                    "posX":4,
+                    "posX":3,
                     "posY":0
                 }
             ]
@@ -291,44 +249,44 @@
                     "posY":5
                 },
                 {
-                    "name": "Nezha HL",
-                    "en": "Lvl 120 Nezha",
-                    "jp": "Lv120 ナタク",
+                    "name": "Shiva",
+                    "en": "Lvl 120 Shiva",
+                    "jp": "Lv120 シヴァ",
                     "posX":1,
                     "posY":0
                 },
                 {
-                    "name": "Twin Elements HL",
-                    "en": "Lvl 120 Twin Elements",
-                    "jp": "Lv120 フラム＝グラス",
+                    "name": "Europa",
+                    "en": "Lvl 120 Europa",
+                    "jp": "Lv120 エウロペ",
                     "posX":1,
                     "posY":1
                 },
                 {
-                    "name": "Macula Marius HL",
-                    "en": "Lvl 120 Macula Marius",
-                    "jp": "Lv120 マキュラ・マリウス",
+                    "name": "Alexiel",
+                    "en": "Lvl 120 Godsworn Alexiel",
+                    "jp": "Lv120 ゴッドガード・ブローディア",
                     "posX":1,
                     "posY":2
                 },
                 {
-                    "name": "Medusa HL",
-                    "en": "Lvl 120 Medusa",
-                    "jp": "Lv120 メドゥーサ",
+                    "name": "Grimnir",
+                    "en": "Lvl 120 Grimnir",
+                    "jp": "Lv120 グリームニル",
                     "posX":1,
                     "posY":3
                 },
                 {
-                    "name": "Apollo HL",
-                    "en": "Lvl 120 Apollo",
-                    "jp": "Lv120 アポロン",
+                    "name": "Metatron",
+                    "en": "Lvl 120 Metatron",
+                    "jp": "Lv120 メタトロン",
                     "posX":1,
                     "posY":4
                 },
                 {
-                    "name": "DA. Olivia HL",
-                    "en": "Lvl 120 Dark Angel Olivia",
-                    "jp": "Lv120 Dエンジェル・オリヴィエ",
+                    "name": "Avatar",
+                    "en": "Lvl 120 Avatar",
+                    "jp": "Lv120 アバター",
                     "posX":1,
                     "posY":5
                 },
@@ -340,220 +298,150 @@
                     "posY":6
                 },
                 {
-                    "name": "Shiva",
-                    "en": "Lvl 120 Shiva",
-                    "jp": "Lv120 シヴァ",
-                    "posX":2,
-                    "posY":0
-                },
-                {
-                    "name": "Europa",
-                    "en": "Lvl 120 Europa",
-                    "jp": "Lv120 エウロペ",
-                    "posX":2,
-                    "posY":1
-                },
-                {
-                    "name": "Alexiel",
-                    "en": "Lvl 120 Godsworn Alexiel",
-                    "jp": "Lv120 ゴッドガード・ブローディア",
-                    "posX":2,
-                    "posY":2
-                },
-                {
-                    "name": "Grimnir",
-                    "en": "Lvl 120 Grimnir",
-                    "jp": "Lv120 グリームニル",
-                    "posX":2,
-                    "posY":3
-                },
-                {
-                    "name": "Metatron",
-                    "en": "Lvl 120 Metatron",
-                    "jp": "Lv120 メタトロン",
-                    "posX":2,
-                    "posY":4
-                },
-                {
-                    "name": "Avatar",
-                    "en": "Lvl 120 Avatar",
-                    "jp": "Lv120 アバター",
-                    "posX":2,
-                    "posY":5
-                },
-                {
                     "name": "Atum",
                     "en": "Lvl 120 Atum",
                     "jp": "Lv120 アトゥム",
-                    "posX":3,
+                    "posX":2,
                     "posY":0
+                },
+                {
+                    "name": "Tefnut",
+                    "en": "Lvl 120 Tefnut",
+                    "jp": "Lv120 テフヌト",
+                    "posX":2,
+                    "posY":1
                 },
                 {
                     "name": "Bennu",
                     "en": "Lvl 120 Bennu",
                     "jp": "Lv120 ベンヌ",
-                    "posX":3,
-                    "posY":1
+                    "posX":2,
+                    "posY":2
+                },
+                {
+                    "name": "Ra",
+                    "en": "Lvl 120 Ra",
+                    "jp": "Lv120 ラー",
+                    "posX":2,
+                    "posY":3
                 },
                 {
                     "name": "Horus",
                     "en": "Lvl 120 Horus",
                     "jp": "Lv120 ホルス",
-                    "posX":3,
-                    "posY":2
+                    "posX":2,
+                    "posY":4
                 },
                 {
                     "name": "Osiris",
                     "en": "Lvl 120 Osiris",
                     "jp": "Lv120 オシリス",
-                    "posX":3,
-                    "posY":3
-                },
-                {
-                    "name": "Prometheus",
-                    "en": "Lvl 120 Prometheus",
-                    "jp": "Lv120 プロメテウス",
-                    "posX":4,
-                    "posY":0
-                },
-                {
-                    "name": "Ca Ong",
-                    "en": "Lvl 120 Ca Ong",
-                    "jp": "Lv120 カー・オン",
-                    "posX":4,
-                    "posY":1
-                },
-                {
-                    "name": "Gilgamesh",
-                    "en": "Lvl 120 Gilgamesh",
-                    "jp": "Lv120 ギルガメッシュ",
-                    "posX":4,
-                    "posY":2
-                },
-                {
-                    "name": "Morrigna",
-                    "en": "Lvl 120 Morrigna",
-                    "jp": "Lv120 バイヴカハ",
-                    "posX":4,
-                    "posY":3
-                },
-                {
-                    "name": "Hector",
-                    "en": "Lvl 120 Hector",
-                    "jp": "Lv120 ヘクトル",
-                    "posX":4,
-                    "posY":4
-                },
-                {
-                    "name": "Anubis",
-                    "en": "Lvl 120 Anubis",
-                    "jp": "Lv120 アヌビス",
-                    "posX":4,
+                    "posX":2,
                     "posY":5
                 },
                 {
                     "name": "Tiamat Malice",
                     "en": "Lvl 150 Tiamat Malice",
                     "jp": "Lv150 ティアマト・マリス",
-                    "posX":5,
+                    "posX":3,
                     "posY":0
                 },
                 {
                     "name": "Leviathan Malice",
                     "en": "Lvl 150 Leviathan Malice",
                     "jp": "Lv150 リヴァイアサン・マリス",
-                    "posX":5,
+                    "posX":3,
                     "posY":1
                 },
                 {
                     "name": "Phronesis",
                     "en": "Lvl 150 Phronesis",
                     "jp": "Lv150 フロネシス",
-                    "posX":5,
+                    "posX":3,
                     "posY":2
                 },
                 {
                     "name": "Luminiera Malice",
                     "en": "Lvl 150 Luminiera Malice",
                     "jp": "Lv150 シュヴァリエ・マリス",
-                    "posX":5,
+                    "posX":3,
                     "posY":3
                 },
                 {
                     "name": "Animus Core",
                     "en": "Lvl 150 Anima-Animus Core",
                     "jp": "Lv150 アニマ・アニムス・コア",
-                    "posX":5,
+                    "posX":3,
                     "posY":4
                 },
                 {
                     "name": "H.&Qilin HL",
                     "en": "Huanglong & Qilin (Impossible)",
                     "jp": "黄龍・黒麒麟HL",
-                    "posX":6,
+                    "posX":4,
                     "posY":0
                 },
                 {
                     "name": "Lucilius HL",
                     "en": "Lvl 150 Lucilius",
                     "jp": "Lv150 ルシファー",
-                    "posX":6,
+                    "posX":4,
                     "posY":1
                 },
                 {
                     "name": "Primarchs HL",
                     "en": "The Four Primarchs",
                     "jp": "四大天司ＨＬ",
-                    "posX":6,
+                    "posX":4,
                     "posY":2
                 },
                 {
                     "name": "Lindwurm HL",
                     "en": "Lvl 200 Lindwurm",
                     "jp": "Lv200 リンドヴルム",
-                    "posX":6,
+                    "posX":4,
                     "posY":3
                 },
                 {
                     "name": "Wilnas",
                     "en": "Lvl 200 Wilnas",
                     "jp": "Lv200 ウィルナス",
-                    "posX":7,
+                    "posX":5,
                     "posY":0
                 },
                 {
                     "name": "Wamdus",
                     "en": "Lvl 200 Wamdus",
                     "jp": "Lv200 ワムデュス",
-                    "posX":7,
+                    "posX":5,
                     "posY":1
                 },
                 {
                     "name": "Galleon",
                     "en": "Lvl 200 Galleon",
                     "jp": "Lv200 ガレヲン",
-                    "posX":7,
+                    "posX":5,
                     "posY":2
                 },
                 {
                     "name": "Ewiyar",
                     "en": "Lvl 200 Ewiyar",
                     "jp": "Lv200 イーウィヤ",
-                    "posX":7,
+                    "posX":5,
                     "posY":3
                 },
                 {
                     "name": "Lu Woh",
                     "en": "Lvl 200 Lu Woh",
                     "jp": "Lv200 ル・オー",
-                    "posX":7,
+                    "posX":5,
                     "posY":4
                 },
                 {
                     "name": "Fediel",
                     "en": "Lvl 200 Fediel",
                     "jp": "Lv200 フェディエル",
-                    "posX":7,
+                    "posX":5,
                     "posY":5
                 }
             ]
@@ -613,11 +501,25 @@
                     "posY":2
                 },
                 {
+                    "name": "Mugen",
+                    "en": "Lvl 275 Mugen",
+                    "jp": "Lv275 ムゲン",
+                    "posX":2,
+                    "posY":0
+                },
+                {
                     "name": "Diaspora",
                     "en": "Lvl 275 Diaspora",
                     "jp": "Lv275 ディアスポラ",
                     "posX":2,
-                    "posY":0
+                    "posY":1
+                },
+                {
+                    "name": "Siegfried",
+                    "en": "Lvl 275 Siegfried",
+                    "jp": "Lv275 ジークフリート",
+                    "posX":2,
+                    "posY":2
                 },
                 {
                     "name": "Super Ulti.Bahamut",
