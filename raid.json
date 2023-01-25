@@ -522,6 +522,13 @@
                     "posY":2
                 },
                 {
+                    "name": "Agastia",
+                    "en": "Lvl 275 Agastia",
+                    "jp": "Lv275 アガスティア",
+                    "posX":2,
+                    "posY":3
+                },
+                {
                     "name": "Super Ulti.Bahamut",
                     "en": "Lvl 300 Super Ultimate Bahamut",
                     "jp": "Lv300 スーパーアルティメットバハムート",
